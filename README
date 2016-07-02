@@ -180,3 +180,11 @@ Still one more release - or actually a small patch - which closes a
 potential security hole. Now we are at 4.0.15. This IS the FINAL release!
 
 September 25, 1996
+
+Install uemacs on Ubuntu
+```bash
+# install library first
+sudo apt-get install libncurses5-dev
+# make execrable
+make
+```
